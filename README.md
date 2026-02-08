@@ -1,4 +1,4 @@
-\# Temperature Controlled Fan System 🌡️
+Temperature Controlled Fan System 🌡️
 
 
 
@@ -6,11 +6,10 @@ A smart cooling system simulation using Arduino Uno and Proteus. The system moni
 
 
 
-!\[Circuit Diagram](diagrams/circuit\_diagram.png)
 
 
 
-\## 🛠 Features
+🛠 Features
 
 \- \*\*Real-time Monitoring:\*\* Displays current temperature on a 16x2 LCD.
 
@@ -20,7 +19,7 @@ A smart cooling system simulation using Arduino Uno and Proteus. The system moni
 
 
 
-\## 🚀 Components Used
+🚀 Components Used
 
 1\. \*\*Arduino Uno R3\*\* (Microcontroller)
 
@@ -34,7 +33,7 @@ A smart cooling system simulation using Arduino Uno and Proteus. The system moni
 
 
 
-\## 💻 How to Run
+ 💻 How to Run
 
 1\. Open the `simulation/FanControl.pdsprj` file in \*\*Proteus 8\*\*.
 
